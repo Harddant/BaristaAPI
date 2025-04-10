@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9tNHXB5IFA=",
+  "success": true,
+  "projectFilePath": "C:\\RiderProjects\\BaristaApi\\BaristaApi\\BaristaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gebruiker\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.3\\microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512",
+    "C:\\Users\\gebruiker\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.3\\microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "C:\\Users\\gebruiker\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

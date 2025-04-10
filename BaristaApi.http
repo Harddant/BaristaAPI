@@ -1,0 +1,11 @@
+@BaristaApi_HostAddress = http://localhost:5299
+
+GET {{BaristaApi_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{BaristaApi_HostAddress}}/todos/1
+Accept: application/json
+
+###
